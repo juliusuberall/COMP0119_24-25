@@ -1,6 +1,6 @@
 import sys,os
 
-RES_PATH = '../../../../resources'
+RES_PATH = '/Users/juliusuberall/Documents/00_WORK/01_REPOs/COMP0119_24-25/resources'
 
 if not os.path.exists(RES_PATH):
     print( 'cannot find /COMP0119_24-25/resources, please update RES_PATH')
